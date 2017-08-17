@@ -17,9 +17,9 @@ The text body of this license is in the public domain, and may be copied freely.
 - "reference" refers to a text-based message which clearly and uniquely identifies a work.
 
 ## Copyright Notice
-Copyright (C) <date and year>  
-Author(s): <author>  
-Copyright Holder(s): <copyright holder>  
+Copyright (C) (date and year)  
+Author(s): (author)  
+Copyright Holder(s): (copyright holder)  
 This software is the legal property of the above-listed copyright holder(s).  
 Possession, use, modification, distribution, and sale of this software, or any works that derive from this software, by a legal entity are subject to the restrictions listed in the Permissions Section of this document.
 
